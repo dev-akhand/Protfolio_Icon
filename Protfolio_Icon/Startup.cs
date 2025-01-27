@@ -36,6 +36,8 @@ namespace Protfolio_Icon
             {
                 app.UseExceptionHandler("/Home/Error");
             }
+            app.UseMiddleware<ErrorHandleMiddleWare>();
+
             app.UseStaticFiles();
 
             app.UseRouting();
