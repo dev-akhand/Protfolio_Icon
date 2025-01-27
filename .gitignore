@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Protfolio_Icon/config
+/.vs/Protfolio_Icon/DesignTimeBuild
+/Protfolio_Icon
